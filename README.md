@@ -10,7 +10,8 @@ The Power BI report in this repository provides visualizations and insights from
 - Performance analysis of political parties
 - Highlighting the different trends
   
-![image](https://github.com/jithinrb995/Election-Analysis/assets/133872499/7bd5428f-10f7-4543-8a46-b9d456370dc8)
+![image](https://github.com/jithinrb995/Election-Analysis/assets/133872499/659a968a-b0e2-443d-8d65-5146c2b496a8)
+
 
 ## Data Sources
 The analysis is based on publicly available data from reputable sources, including the Election Commission of India, Wikipedia, and other media sites. The specific data sources used in this analysis are listed below:
