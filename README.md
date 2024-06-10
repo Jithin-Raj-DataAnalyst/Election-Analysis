@@ -1,5 +1,6 @@
 # Election-Analysis
 On behalf of the resume challenge conducted by Codebasics
+## 
 ## Overview
 This repository contains an analysis of the Indian General Elections using Power BI. The study aims to explore various aspects of the elections, including voter demographics, voting trends, and election results.
 ## Power BI Dashboard (https://app.powerbi.com/groups/me/reports/165fe786-23d0-4213-94c3-222cbf8fb9e2/70ba0c240ad865cb4e01?experience=power-bi)
@@ -26,3 +27,6 @@ The analysis is based on publicly available data from reputable sources, includi
 ![image](https://github.com/jithinrb995/Election-Analysis/assets/133872499/3190c8d6-9c21-4727-9e31-f439ea6731f0)
 
 ![image](https://github.com/jithinrb995/Election-Analysis/assets/133872499/5091f573-b46f-4e47-9b64-7836c3804a47)
+
+## Insights
+Since 2014, there has been a noticeable trend of a significant reduction in voter turnout in each election. Several factors may contribute to this decline. After analyzing the correlation between postal vote percentage, GDP, and literacy rate against voter turnout, no dependency was found among these variables. However, a slight positive trend was observed for postal vote percentage and literacy rate, though these correlations were too weak to draw any clear conclusions. Other potential factors, such as demographics, socio-economic conditions, politics, and the environment, also impact voter turnout.
